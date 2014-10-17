@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ikv:home|Door43 (ikv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ikv|d43-ikv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ikv/archive/master.zip|d43-ikv.zip]]
+
+**Recent Changes**
+{{changes>ns = ikv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ikv|Ethnologue data]]
+
